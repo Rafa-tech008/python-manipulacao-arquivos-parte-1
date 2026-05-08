@@ -30,7 +30,7 @@ def main ():
     maior:int = 0
     menor:int = 0
     
-    dir01 = '/media/sf_VS_Code/Atividades_python/atividade_04/Arquivos.txt/'
+    dir01 = '/media/sf_VS_Code/Atividades_python/atividade_07/Arquivos.txt/'
     arq01 = 'exercicio36p01.txt'
 
     for i in range (100):

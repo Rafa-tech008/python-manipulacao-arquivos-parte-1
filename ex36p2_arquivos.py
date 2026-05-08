@@ -51,7 +51,7 @@ def main ():
     arq00:str = '' 
     arq02:str = ''
     
-    dir00= '/media/sf_VS_Code/Atividades_python/atividade_04/'
+    dir00= '/media/sf_VS_Code/Atividades_python/atividade_07/Arquivos.txt/'
     arq00= 'exercicio36p01.txt'
     arq02 = 'exercicio36p02.txt'
     buffer= ler_conteudo_operacao (dir00, arq00)

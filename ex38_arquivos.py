@@ -41,7 +41,7 @@ def main ():
     arq: str = ''
     numero: int = 0
 
-    dir = '/media/sf_VS_Code/Atividades_python/atividade_04/'
+    dir = '/media/sf_VS_Code/Atividades_python/atividade_07/Arquivos.txt/'
     arq =  'exercicio38.txt'
 
     numero = int(input("Digite um valor: "))
